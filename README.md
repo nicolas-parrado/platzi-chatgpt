@@ -3,11 +3,17 @@
 ### yo
 actúa como un profesor de guitarra eléctrica de estilo musical rock. Toma en consideración que los alumnos tienen nivel intermedio de guitarra eléctrica. estás listo?
 
+---
+
 ### ChatGPT
 ¡Claro! Estoy listo para ayudarte como profesor de guitarra eléctrica de estilo musical rock. ¿En qué puedo ayudarte hoy?
 
+---
+
 ### yo
 necesito un plan de estudios para mejorar las habilidades de guitarra en los alumnos. Por favor usa como ejemplos música rock de la década de los 90
+
+---
 
 ### ChatGPT
 ¡Por supuesto! Aquí tienes un plan de estudios para mejorar las habilidades de guitarra eléctrica de nivel intermedio, centrándonos en el estilo musical del rock de la década de los 90. Este plan se divide en cuatro áreas principales: técnica, teoría, repertorio y creatividad. Asegúrate de adaptar y ajustar el plan según las necesidades y preferencias de tus alumnos.
@@ -30,9 +36,13 @@ necesito un plan de estudios para mejorar las habilidades de guitarra en los alu
 
 Recuerda que la práctica regular y constante es fundamental para mejorar las habilidades en la guitarra eléctrica. Además, anima a tus alumnos a escuchar y explorar más música de rock de los 90 para obtener una comprensión más amplia del estilo y su contexto. ¡Diviértete enseñando y rockea con tus alumnos!
 
+---
+
 ### yo
 
 excelente. Me encantó la forma en la cual diseñaste el plan. Puedes calendarizar este plan en no más de 120 días, considerando que los alumnos le dedicarán 2 a 3 horas diarias al estudio.
+
+---
 
 ### ChatGPT
 
@@ -96,8 +106,12 @@ A partir de la semana 21 en adelante, los alumnos pueden continuar desarrollando
 
 Recuerda que esta calendarización es solo una guía, y puedes ajustarla según las necesidades y progresos individuales de tus alumnos. ¡Disfruta enseñando y rockea junto a ellos!
 
+---
+
 ### yo
 veo que consideraste los 120 días como 20 semanas. Por favor considerar 24 semanas para la calendarización. Además considera 2 semanas para que los alumnos puedan entregar un proyecto de música en el cual puedan escoger una canción de rock de la década del 90 y la presenten al curso
+
+---
 
 ### ChatGPT
 ¡Por supuesto! Aquí tienes una calendarización actualizada del plan de estudios para un período de 24 semanas (168 días), considerando 2 semanas adicionales para el proyecto de música en el cual los alumnos presentarán una canción de rock de la década de los 90.
@@ -166,8 +180,12 @@ Semana 23-24:
 
 Recuerda que esta calendarización es solo una guía y puedes ajustarla según las necesidades y progresos individuales de tus alumnos. ¡Disfruta enseñando y rockea junto a ellos en su proyecto final!
 
+---
+
 ### yo
 me parece muy bien el calendario. Para la Semana 1-2 podrías indicarme 5 ejercicios que puedan realizar los alumnos?
+
+---
 
 ### ChatGPT
 ¡Claro! Aquí tienes cinco ejercicios que tus alumnos pueden realizar durante las semanas 1-2 para mejorar su técnica en la guitarra eléctrica:
@@ -180,9 +198,13 @@ me parece muy bien el calendario. Para la Semana 1-2 podrías indicarme 5 ejerci
 
 Recuerda que estos ejercicios son solo sugerencias y puedes ajustarlos o personalizarlos según las necesidades y habilidades individuales de tus alumnos. Anima a tus alumnos a practicar estos ejercicios de manera regular y enfocarse en la precisión y la fluidez en sus ejecuciones.
 
+---
+
 ### yo
 
 y me podrías explicar la teoría para la semana 1-2 que deben aprender los alumnos?
+
+---
 
 ### ChatGPT
 
@@ -194,9 +216,13 @@ y me podrías explicar la teoría para la semana 1-2 que deben aprender los alum
 
 Recuerda que la teoría musical es un vasto campo y estas son solo algunas ideas básicas para comenzar. A medida que avances en el plan de estudios, puedes profundizar en otros conceptos teóricos relevantes, como escalas y modos utilizados en el rock de los 90, análisis armónico de canciones y técnicas de improvisación.
 
+---
+
 ### yo
 
 actúa como un profesor de guitarra eléctrica. Háblame sobre: "Teoría: Progresiones de acordes básicos en el estilo del rock de los 90"
+
+---
 
 ### ChatGPT
 
@@ -212,9 +238,13 @@ actúa como un profesor de guitarra eléctrica. Háblame sobre: "Teoría: Progre
 
 Recuerda que estas progresiones son solo ejemplos y hay muchas más que tus alumnos pueden explorar a medida que avanzan en su estudio. Anímalos a escuchar y analizar canciones de rock de los 90 para identificar las progresiones de acordes utilizadas y cómo se aplican en diferentes contextos musicales. Esto les ayudará a desarrollar su comprensión y capacidad para crear sus propias progresiones originales en el estilo del rock de los 90.
 
+---
+
 ### yo
 
 me podrías dar una breve descripción del curso?
+
+---
 
 ### ChatGPT
 
@@ -234,9 +264,13 @@ El curso culminará con un proyecto final, donde los alumnos podrán elegir una 
 
 En resumen, el curso de guitarra eléctrica de estilo musical rock brinda a los estudiantes de nivel intermedio la oportunidad de mejorar sus habilidades técnicas, expandir su conocimiento teórico y desarrollar su repertorio en el contexto del rock de los 90. A lo largo del curso, los alumnos se sumergirán en el mundo del rock y adquirirán las herramientas necesarias para tocar con confianza y expresividad en este género musical.
 
+---
+
 ### yo
 
 y me podrías entregar un post que pueda poner sobre el curso en LinkedIn, y otro que pueda usar en Twitter para promocionar mi curso?
+
+---
 
 ### ChatGPT
 
